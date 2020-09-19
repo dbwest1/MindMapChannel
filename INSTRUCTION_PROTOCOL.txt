@@ -1,0 +1,88 @@
+PROTOCOL
+- Add image to /Content/Images folder
+- Create md file
+- md file ... Add date, title, tags [must align with master list], category [must align with master list], add ##Heading
+- md file ... Add <img class="image-process-crisp" srcset="2x" src="/images/Clark Kent Ervin.jpg"/>
+- md file ... copy and paste Edraw description and notes (ref) into md file.
+- md file ... Add ** around key dates / role **
+- md file ... Add <a href="/images/<image name.jpg>"target="_blank">[0 - Full Size Image]</a>
+
+- md file ... Edit references to following format (with brackets [shown](link)]
+[1 - Rhodes Database](https://www.rhodeshouse.ox.ac.uk/alumni-volunteers/rhodes-scholar-database/)
+
+- md file ... Add share code below
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f5cd0ba422364a0"></script> 
+
+CATEGORY
+1. How to use the Mind Map Channel Website
+2. Important Information
+3. Important Testimony
+4. Biography MATRIX
+5. Recommended Research and Reading
+6. Headline Posts
+
+
+MASTER tags LIST: 
+Council on Foreign Relations;
+Trilateral Commission;
+Bilderberg;
+
+Trump;
+Obama;
+GWBush(S&B1968);
+Clinton(Rhodes1968);
+GHWBush(S&B1948);
+Reagan(Bohemian/GHWB S&B1948);
+Carter(Gridiron/TC);
+Ford(Freemason/VP Rockefeller);
+Nixon(Bohemian);
+LBJ;
+JFK;
+HarrySTruman(Freemason);
+FranklinDRoosevelt(Freemason);
+
+1898 - Spanish-American War;
+1914-18 WW1;
+1929-33 Great Depression;
+1939-1944 WW2;
+1946-47 Operation Highjump;
+1950-53 Korean War;
+1955-75 Vietnam War;
+1961 Bay of Pigs;
+1962 Cuban Missile Crisis;
+1979-89 Soviet-Afghan-CIA War;
+1985-87 Iran-Contra;
+1990-91 Iraq War (Desert Storm);
+2003-11 War on Terror;
+
+Important Testimony; 
+Recommended;
+
+CIA;
+United Nations;
+Republican;
+Democratic;
+President;
+ARRB;
+Money System;
+Federal Reserve;
+Financial Crash;
+
+Skull and Bones;
+Scroll and Key;
+Wolf's Head;
+Rhodes Scholar;
+Quill and Dagger;
+Philolexian Society;
+Bohemian;
+Freemason;
+
+Education;
+Foundations;
+Ford Foundation;
+Carnegie Endowment for International Peace;
+Carnegie Institute for Washington;
+Carnegie Institute for New York;
+
+
+

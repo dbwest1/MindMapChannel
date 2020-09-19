@@ -1,0 +1,96 @@
+
+******** INSTALL **************
+pip install -r requirements.txt
+
+
+******** BUILD ****************
+
+pelican documentation/content -s documentation/pelicanconf.py
+
+cd output
+
+python -m pelican.server
+
+
+
+
+
+pip install disqus-python
+
+
+#pip install pelican-albums
+
+#pip install lunr
+
+#pip install pelican_image_process
+
+#pip install pelican-youtube
+
+#pip install peru
+
+#pip install typogrify
+
+
+# Python Install
+C:\Users\dbwes\AppData\Local\Programs\Python\Python38-32\Lib\test\libregrtest
+
+
+# Google searches
+**********************
+<script async src="https://cse.google.com/cse.js?cx=af7cc12b644070fdf"></script>
+<div class="gcse-search"></div>
+
+
+Google API Key: AIzaSyB8XHB2h_zzFpmCDgrbsjJ6SiLvwfmOQIM
+
+cx=af7cc12b644070fdf
+
+
+
+
+
+
+
+https://www.markdownguide.org/basic-syntax/
+
+https://github.com/e2bady/tipueSearchGenerator
+
+
+AddThis.com (For Sharing functionality)
+mindmapchannel@gmail.com
+Bexhill1066
+
+
+
+20 Jan 1989 to 20 Jan 1993 - 41st President of the United States
+
+
+
+
+
+Pelican install
+https://docs.getpelican.com/en/3.6.3/quickstart.html
+pip install pelican
+pip install --upgrade pelican
+pelican-quickstart
+
+cd ~/projects/yoursite/output
+
+python -m pelican.server
+
+http://localhost:8000/ 
+
+pip install pelican-advthumbnailer
+
+
+Pelican Search and Comments Note
+https://snipcart.com/blog/pelican-blog-tutorial-search-comments
+
+
+A very fast and expressive template engine.
+
+$ pip install -U Jinja2
+
+	
+	
+	
